@@ -1,7 +1,6 @@
 # LinkedIn-Job-Scraper-To-WhatsApp
 Automate your LinkedIn job search and send results to yourself on WhatsApp — all with Python and PyAutoGUI!
 
----
 
 ##  About
 
