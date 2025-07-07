@@ -4,7 +4,7 @@ Automate your LinkedIn job search and send results to yourself on WhatsApp — a
 
 ##  About
 
-**LinkedIn-Job-Hunter-Bot** is a Python automation script that:
+**LinkedIn-Job-Scraper-To-WhatsApp** is a Python automation script that:
 - Opens Chrome with your preferred user profile (keeps you signed in)
 - Navigates to LinkedIn Jobs
 - Searches for your target job title
